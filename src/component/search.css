@@ -1,0 +1,14 @@
+div h1{
+	font-family: 'Monoton';
+	color: #45a247;
+}
+input{
+	background-color: dark-gray;
+	width: 30vw;
+	height: 2em;
+}
+input[placeholder='search robot here']{
+	color: red;
+	text-align: center;
+}
+
